@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--默认图片是没水-->
+    <item android:drawable="@drawable/ic_nowater" android:state_checked="false"></item>
+
+    <item android:drawable="@drawable/ic_water" android:state_checked="true"></item>
+</selector>
